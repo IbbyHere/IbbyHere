@@ -29,3 +29,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/IbbyHere/IbbyHere/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
+
+---
+
+### 📈 Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbbyHere&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" />
+</p>
