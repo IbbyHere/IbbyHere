@@ -24,14 +24,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IbbyHere/IbbyHere/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📈 Activity Overview
 
 <p align="center">
