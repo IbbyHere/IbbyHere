@@ -30,6 +30,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbbyHere&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" />
 </p>
 
+---
+
+### 🧰 Tools & Environment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbbyHere&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" />
 </p>
