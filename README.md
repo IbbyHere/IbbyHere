@@ -11,3 +11,7 @@
 - 🎯 **Current Focus:** Building a full-stack web application with React & Node.js
 
 <br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IbbyHere/IbbyHere/output/github-snake.svg" alt="Snake animation" />
+</p>
